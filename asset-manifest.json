@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/agamiscape/static/css/main.098ac163.chunk.css",
+    "main.js": "/agamiscape/static/js/main.2b2ddf9e.chunk.js",
+    "main.js.map": "/agamiscape/static/js/main.2b2ddf9e.chunk.js.map",
+    "runtime~main.js": "/agamiscape/static/js/runtime~main.93f0b5ef.js",
+    "runtime~main.js.map": "/agamiscape/static/js/runtime~main.93f0b5ef.js.map",
+    "static/js/2.0824672f.chunk.js": "/agamiscape/static/js/2.0824672f.chunk.js",
+    "static/js/2.0824672f.chunk.js.map": "/agamiscape/static/js/2.0824672f.chunk.js.map",
+    "index.html": "/agamiscape/index.html",
+    "precache-manifest.c5e7e73ddcd95f3e29517ec69243f71d.js": "/agamiscape/precache-manifest.c5e7e73ddcd95f3e29517ec69243f71d.js",
+    "service-worker.js": "/agamiscape/service-worker.js",
+    "static/css/main.098ac163.chunk.css.map": "/agamiscape/static/css/main.098ac163.chunk.css.map",
+    "static/media/agami-prize.png": "/agamiscape/static/media/agami-prize.4109f721.png",
+    "static/media/legend.png": "/agamiscape/static/media/legend.7cb9704b.png",
+    "static/media/loader.gif": "/agamiscape/static/media/loader.b50f353a.gif"
+  }
+}
